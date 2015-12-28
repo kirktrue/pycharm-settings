@@ -1,2 +1,2 @@
-# idea-settings
-Settings repository for JetBrains' IDEA
+# pycharm-settings
+Settings repository for JetBrains' PyCharm
