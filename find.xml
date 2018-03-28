@@ -5,29 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ini" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.js</mask>
-      <mask>*tas.py</mask>
-      <mask>*task.py</mask>
-      <mask>*task*.py</mask>
-      <mask>*tas*.py</mask>
-      <mask>*t*.py</mask>
-      <mask>*.c</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
-      <mask>*.p</mask>
-      <mask>*.py</mask>
-      <mask>*.ini</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.py" />
   </component>
 </application>
